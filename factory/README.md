@@ -1,1 +1,3 @@
+# Factory Pattern
+
 [AbstractFactory](./abstract)
