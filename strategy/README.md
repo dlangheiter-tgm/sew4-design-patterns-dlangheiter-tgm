@@ -8,5 +8,6 @@ Eine möglichkeit zu haben ein bestimmtes verhalten dynamich zu gestalten.
 ## Bsp
 Mein Bespiel ist ein "Processor" welcher über eine bestimte Strategy (Addition, Substraction, Multiplikation)
 eine mathematische Operation ausführt. 
-
+g
 ![UML_Example](./resources/StrategyDiagram.svg)
+[Astah File](./resources/StrategyDiagram.asta)
