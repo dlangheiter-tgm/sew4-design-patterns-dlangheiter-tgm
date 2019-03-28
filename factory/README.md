@@ -1,3 +1,7 @@
 # Factory Pattern
+Das Grundprinzip dieses Patterns ist es das die Initzialisierung (new ...) abstrahiert wird.
 
-[AbstractFactory](./abstract)
+## Patterns
+* Simple Factory
+* Factory Method
+* [Abstract Factory](./abstract)
