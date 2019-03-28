@@ -8,7 +8,7 @@ Please feel free to describe the essential Software development principles and p
 * Observer
 * Decorator
 * [Factory](./factory)
-  * Simple
+  * [Simple](./factory/simple)
   * Method
   * [Abstract Factory](./factory/abstract)
 * Iterator
